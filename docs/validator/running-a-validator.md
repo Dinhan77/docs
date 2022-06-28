@@ -25,7 +25,7 @@ $ aurad tx staking create-validator \
   --min-self-delegation="1000000" \
   --gas="auto" \
   --gas-prices=<choose gas price> \
-  --from=<key_name>
+  --from=<793828a316bd863fc4090105f6ab6375adf873bb017c10931acff100f43ee3a8>
 ```
 
 You can confirm that you are in the validator set by using a third party explorer or `aurad cli`
