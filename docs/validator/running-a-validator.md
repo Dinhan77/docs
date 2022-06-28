@@ -5,7 +5,7 @@ sidebar_position: 3
 # Create your validator
 You need to add your `wallet key` using `mnemonic` or create a new key and tranfer `uaura` to its address
 ```bash
- aurad keys add <key_name> 
+ aurad keys add <55f64a3162c0dbfdafcca33b61dd61032de9ee095f100953d2bcb619d1ef0fdc> 
 ```
 
 Your `auravalconspub` can be used to create a new validator by staking tokens. You can find your validator pubkey by running:
